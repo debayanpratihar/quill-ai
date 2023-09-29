@@ -66,5 +66,9 @@
   },
   "devDependencies": {
     "prisma": "^5.3.1"
-  }
+  },
+  "description": "pdf ai",
+  "main": "next.config.js",
+  "author": "",
+  "license": "ISC"
 }
